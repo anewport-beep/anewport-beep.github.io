@@ -21,3 +21,5 @@ Classes that I take:
 
 Fun Projects:
 * Creating music with AI. (click here to hear my latest AI generated music track).
+![my meme](andrewsmeme.jpg)
+[my AI song](/AndrewCompEdSong.mp3)
