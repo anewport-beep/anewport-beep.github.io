@@ -20,6 +20,8 @@ Classes that I take:
 
 
 Fun Projects:
-* Creating music with AI. [my AI song](/AndrewCompEdSong.mp3)
+* Creating music with AI. 
+
 ![my meme](andrewsmeme.jpg)
+[my AI song](/AndrewCompEdSong.mp3)
 
