@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Andrew's new page</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+Three of my fav classes: <br>
+<ul>
+  <li>Comp Ed</li>
+  <li>Math Modelling</li>
+  <li>Algebra</li>
+</ul>
+
+  <a href="https://niagara.edu">My University</a>
+
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe5%2Fb5%2Fbf%2Fe5b5bf5e0245640f5e7108aa14bdcd83.jpg&f=1&nofb=1&ipt=7eb7c3b30cad42c4f934efa2516c3cf78ebcf566eae8396ab51990b0d8c84118"
+  
+  <p>My first paragraph.</p>
+
+</body>
+</html>
